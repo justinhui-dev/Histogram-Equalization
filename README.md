@@ -1,3 +1,4 @@
 # Histogram-Equalization
-Key in image file with common image file extension 
+input: any image file with common extension (e.g *.jpg, *.png..)
+output: equalized result image 
 histogram equalization is perform in HSV channel

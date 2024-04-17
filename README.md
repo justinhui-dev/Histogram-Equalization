@@ -1,9 +1,9 @@
-Histogram Equalization
+# Histogram Equalization
 
-Introduction
+# Introduction
 This repository contains code for performing histogram equalization on images. Histogram equalization is performed in the HSV channel, which helps improve the contrast of the image.
 
-Features
+# Features
 Histogram Equalization: The Python script Histogram_Equalization.py performs histogram equalization on input images.
 HSV Channel Processing: Histogram equalization is applied in the HSV (Hue, Saturation, Value) channel to enhance the image contrast effectively.
 Easy-to-Use: With clear documentation and straightforward usage instructions, this repository makes histogram equalization accessible to developers of all levels.
@@ -27,11 +27,11 @@ Copy code
 python Histogram_Equalization.py input_image.jpg
 The script will perform histogram equalization on the input image and save the result.
 
-Requirements
+# Requirements
 Python 3.x
 OpenCV (cv2)
 Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-License
+# License
 This project is licensed under the MIT License.
